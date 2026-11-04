@@ -502,6 +502,15 @@ plt.title(
 plt.show()
 •	The graph provides a visual comparison of model errors. 
 •	The model with the lowest RMSE performs best according to this metric.
+
+**COLAB LINK**
+
+https://colab.research.google.com/drive/1Vszxt_Kk15eEIoMNZyvfMT2Ckvm5WY5s?utm_source=chatgpt.com
+
+**RESULT**
+```
+The house price prediction was successfully performed using different regression machine learning models. The models were evaluated using RMSE, MAE, and R² metrics. The regression model with the lowest RMSE and MAE and highest R² value was identified as the best-performing model for predicting house prices.
+```
 ## CONCLUSION
 Thus, Linear Regression and other regression models were successfully applied for house price prediction, and their performance was compared using standard regression evaluation metrics.
 
